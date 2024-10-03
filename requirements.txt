@@ -1,0 +1,7 @@
+# Daftar library yang digunakan
+        pandas
+        numpy
+        matplotlib
+        seaborn
+        streamlit
+        scikit-learn
